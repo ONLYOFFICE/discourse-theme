@@ -1,3 +1,3 @@
 # This is a theme for ONLYOFFICE Discourse
 
-![Screenshot](http://domain.com/path/to/img.png "Preview")
+![Screenshot](https://imgur.com/36Nmv4A "Preview")
